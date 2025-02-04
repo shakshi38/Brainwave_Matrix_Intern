@@ -15,10 +15,12 @@ Showcases a variety of dishes with high-quality images.
 Hover effects and click animations for an engaging experience.
 
 3. Dynamic Background Effects:-
+   
 Animated starry background for a visually pleasing experience.
+
 Smooth fade-in transitions for enhanced user experience.
 
-4. Food Image Toggle System:-
+5. Food Image Toggle System:-
  
 Clicking on a food image highlights it in a larger view.
 
@@ -31,20 +33,22 @@ Various CSS animations including fade-in, slide-in, and hover effects.
 Enhances user interaction with the website.
 
 Fast and Lightweight:-
+
 Uses optimized HTML, CSS, and JavaScript for fast performance.
+
 Minimal external dependencies ensure quick loading times.
 
 Technologies Used:-
 
-HTML5 - Structuring the web pages.
+1.HTML5 - Structuring the web pages.
 
-CSS3 - Styling and animations.
+2.CSS3 - Styling and animations.
 
-JavaScript (ES6) - Adding interactivity and dynamic elements.
+3.JavaScript (ES6) - Adding interactivity and dynamic elements.
 
-Font Awesome - For social media and UI icons.
+4.Font Awesome - For social media and UI icons.
 
-Hosting: Not applicable (local deployment).
+5.Hosting- Not applicable (local deployment).
 
 Prerequisites.
 
